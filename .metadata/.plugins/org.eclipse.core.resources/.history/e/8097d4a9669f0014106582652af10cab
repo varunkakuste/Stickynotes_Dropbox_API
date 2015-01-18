@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.project.stickynotes.customConnection;
+
+/**
+ * @author Varun
+ *
+ */
+public class CustomMongoConnection {
+
+}

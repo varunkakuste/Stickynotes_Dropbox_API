@@ -1,0 +1,65 @@
+/**
+ * 
+ */
+package com.project.stickynotes.forms;
+
+import java.util.List;
+
+import com.project.stickynotes.beans.FilesBean;
+
+/**
+ * @author Varun
+ *
+ */
+public class FilesForm {
+	
+	/**
+	 * name
+	 */
+	private String name;
+	
+	/**
+	 * loggedInUser
+	 */
+	private String loggedInUser;
+	
+	/**
+	 * filesToList
+	 */
+	private List<FilesBean> filesToList;
+	
+	/**
+	 * foldersToList
+	 */
+	private List<FilesBean> foldersToList;
+	
+	/**
+	 * fileToUpload
+	 */
+	private String fileToUpload;
+	
+	/**
+	 * fileToDelete
+	 */
+	private String fileToDelete;
+	
+	/**
+	 * folderName
+	 */
+	private String folderName;
+	
+	/**
+	 * readFile
+	 */
+	private String readFile;
+	
+	/**
+	 * newFileName
+	 */
+	private String newFileName;
+	
+	/**
+	 * folderNameToCreate
+	 */
+	private String folderNameToCreate;
+}

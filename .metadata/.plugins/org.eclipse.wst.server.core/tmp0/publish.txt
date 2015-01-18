@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jan 18 15:32:53 PST 2015
+org.eclipse.jst.jee.server\:Stickynotes=D\:\\sts-bundle\\pivotal-tc-server-developer-3.0.2.RELEASE\\base-instance\\wtpwebapps\\Stickynotes
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Varun\\.m2\\repository\\org\\springframework\\spring-web\\3.2.2.RELEASE\\spring-web-3.2.2.RELEASE.jar=D\:\\sts-bundle\\pivotal-tc-server-developer-3.0.2.RELEASE\\base-instance\\wtpwebapps\\Stickynotes\\WEB-INF\\lib\\spring-web-3.2.2.RELEASE.jar
