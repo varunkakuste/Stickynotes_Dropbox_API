@@ -40,8 +40,8 @@ import com.project.stickynotes.service.DropBoxService;
 @Controller
 public class HomeController {
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	private static final String APP_KEY = "z7fbx59ihvmdpgo";
-	private static final String APP_SECRET = "f6b7wd2f1m5hdbg";
+	private static final String APP_KEY = "xxxxxx";
+	private static final String APP_SECRET = "xxxxxx";
 	DropBoxService dbxService = new DropBoxService();
 	
 	/**
